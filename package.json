@@ -1,0 +1,20 @@
+{
+  "name": "coyotiv",
+  "version": "1.0.0",
+  "description": "This is a sample Readme This is line two of sample Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazChini/Coyotiv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazChini/Coyotiv/issues"
+  },
+  "homepage": "https://github.com/NazChini/Coyotiv#readme"
+}
